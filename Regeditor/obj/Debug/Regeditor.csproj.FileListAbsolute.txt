@@ -1,0 +1,25 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Regeditor\Regeditor\bin\Debug\Regeditor.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Regeditor\Regeditor\bin\Debug\Regeditor.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Regeditor\Regeditor\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Regeditor\Regeditor\obj\Debug\Regeditor.Form1.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Regeditor\Regeditor\obj\Debug\Regeditor.Properties.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Regeditor\Regeditor\obj\Debug\Regeditor.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Regeditor\Regeditor\obj\Debug\Regeditor.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\Regeditor\Regeditor\obj\Debug\Regeditor.pdb
+C:\Users\Administrator\Downloads\captain-StartReg\Regeditor\Regeditor\bin\Debug\Regeditor.exe
+C:\Users\Administrator\Downloads\captain-StartReg\Regeditor\Regeditor\bin\Debug\Regeditor.pdb
+C:\Users\Administrator\Downloads\captain-StartReg\Regeditor\Regeditor\obj\Debug\Regeditor.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Downloads\captain-StartReg\Regeditor\Regeditor\obj\Debug\Regeditor.Form1.resources
+C:\Users\Administrator\Downloads\captain-StartReg\Regeditor\Regeditor\obj\Debug\Regeditor.Properties.Resources.resources
+C:\Users\Administrator\Downloads\captain-StartReg\Regeditor\Regeditor\obj\Debug\Regeditor.csproj.GenerateResource.Cache
+C:\Users\Administrator\Downloads\captain-StartReg\Regeditor\Regeditor\obj\Debug\Regeditor.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\captain-StartReg\Regeditor\Regeditor\obj\Debug\Regeditor.exe
+C:\Users\Administrator\Downloads\captain-StartReg\Regeditor\Regeditor\obj\Debug\Regeditor.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\StartReg\Regeditor\bin\Debug\Regeditor.exe
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\StartReg\Regeditor\bin\Debug\Regeditor.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\StartReg\Regeditor\obj\Debug\Regeditor.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\StartReg\Regeditor\obj\Debug\Regeditor.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\StartReg\Regeditor\obj\Debug\Regeditor.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\StartReg\Regeditor\obj\Debug\Regeditor.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\StartReg\Regeditor\obj\Debug\Regeditor.exe
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\StartReg\Regeditor\obj\Debug\Regeditor.pdb
